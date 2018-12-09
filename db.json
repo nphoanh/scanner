@@ -1,0 +1,19 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "imageName": "1.png",
+      "base64": "ddd"
+    },
+    {
+      "id": 2,
+      "imageName": "2.png",
+      "base64": "ddd"
+    },
+    {
+      "id": 3,
+      "imageName": "3.png",
+      "base64": "2434"
+    }
+  ]
+}
